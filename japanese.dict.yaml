@@ -3,7 +3,7 @@
 
 ---
 name: japanese
-version: 'v0.2-20180411'
+version: '0.1'
 
 import_tables:
   - 'japanese.mozc'
